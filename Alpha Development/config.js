@@ -1,7 +1,7 @@
 const config = {
-    "ownerID": "344108155455799298",
-    "admins": ["206577877536342017"],
-    "token": "NzcyODY1Mzg5MzU1OTkxMDgw.X6A4-w.xGZcgA2Eet-apei2AcG1tC4Vzg4",
+    "ownerID": "",
+    "admins": [],
+    "token": "",
 
 
     permLevels: [
